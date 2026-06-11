@@ -1,0 +1,25 @@
+.search{
+    position: relative;
+    background-image: url("");
+    height: 400px;
+}
+
+video{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.search input,
+.search button {
+    position: relative;
+    z-index: 1;
+}
+
+@media (width <= 800px){
+    .search{
+        height: 300px;
+    }
+}
