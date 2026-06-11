@@ -5,9 +5,9 @@ btn.addEventListener("click", () => {
     toogle = !toogle;
     if (toogle) {
         mob_link.style.opacity = 100;
-        mob_link.style.transform = "translateX(7.5rem)";
+        mob_link.style.transform = "translateX(10.2rem)";
     } else {
         mob_link.style.opacity = 0;
-        mob_link.style.transform = "translateX(-7.5rem)";
+        mob_link.style.transform = "translateX(-10.2rem)";
     }
 })
