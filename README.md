@@ -14,7 +14,7 @@ A fully hand-coded clone of the **TemplateMo 556 Catalog-Z** template, built fro
 
 ![Alternative Text](./assets/preview1.png)
 ![Alternative Text](./assets/preview2.png)
-![Alternative Text](./assets/preview1.png)
+![Alternative Text](./assets/preview3.png)
 
 ---
 
