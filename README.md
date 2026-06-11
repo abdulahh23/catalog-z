@@ -6,7 +6,7 @@ A fully hand-coded clone of the **TemplateMo 556 Catalog-Z** template, built fro
 
 ##  Live Preview
 
-> *(Add your GitHub Pages or deployment link here)*
+(https://abdulahh23-catalog-z.netlify.app/)
 
 ---
 
